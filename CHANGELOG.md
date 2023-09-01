@@ -1,3 +1,6 @@
+# Version 0.0.11
+* Update omniauth 2.x
+
 # Version 0.0.10
 * Expand JWT dep. Thanks @ronaldsalas
 
